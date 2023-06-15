@@ -4,7 +4,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <h1>
-    Hi Whaley!!!! ^_^. Sowwy this pwoject is so late. Please forgive me :3. Please click undefined 2
+    Hi Whaley!!! ^_^. Sowwy this pwoject is so late. Please forgive me :3. Please click undefined 2
     times. Car Crashes
   </h1>
   <header>
